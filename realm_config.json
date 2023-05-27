@@ -1,0 +1,9 @@
+{
+    "app_id": "cases-app-1-gmtgf",
+    "config_version": 20210101,
+    "name": "cases-app-1",
+    "location": "IN-MB",
+    "provider_region": "aws-ap-south-1",
+    "deployment_model": "LOCAL",
+    "environment": "development"
+}
